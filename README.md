@@ -1,1 +1,1 @@
-# KPP_Lab1
+# KPPLab1
